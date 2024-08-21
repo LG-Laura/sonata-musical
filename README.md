@@ -10,6 +10,7 @@ Bienvenido al proyecto **Sonata Musical**, una aplicación de landing page para 
   - 🛠️ **C#** con **Entity Framework Core** para la gestión de datos.
   - 💾 **MySQL** como sistema de gestión de bases de datos.
   - 🔒 **JWT** para autenticación y autorización.
+  - 🌐 **API RESTful** para la comunicación entre el frontend y el backend.
 
 - **Frontend:**
   - 🌐 **Angular CLI** para construir la interfaz de usuario.
