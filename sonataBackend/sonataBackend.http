@@ -1,0 +1,6 @@
+@sonataBackend_HostAddress = http://localhost:5030
+
+GET {{sonataBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
