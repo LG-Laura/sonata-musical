@@ -1,5 +1,4 @@
-# Gracias por tu interés en Sonata Musical! 🎸
-# Sonata Musical 🎶
+# Sonata Musical 🎶🎸
 
 Bienvenido al proyecto **Sonata Musical**, una aplicación de landing page para la venta de instrumentos musicales.
 
