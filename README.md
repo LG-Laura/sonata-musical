@@ -1,3 +1,7 @@
+<p align="center" style="font-size: 24px;">
+  <strong>🚧Este proyecto está actualmente en fase de desarrollo.</strong><br>
+</p>
+
 # Sonata Musical 🎶🎸
 
 Bienvenido al proyecto **Sonata Musical**, una aplicación de landing page para la venta de instrumentos musicales.
